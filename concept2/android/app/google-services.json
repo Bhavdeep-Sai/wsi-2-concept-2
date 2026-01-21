@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "123011165933",
+    "project_id": "testing-wsi",
+    "storage_bucket": "testing-wsi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123011165933:android:478c71a5c7d087752aa6e4",
+        "android_client_info": {
+          "package_name": "com.example.concept2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD20boV-VD861aPsodb7fUbjxDNznlL31c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
